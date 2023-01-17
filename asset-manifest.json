@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-simple-transplate/static/css/main.63679c87.css",
+    "main.js": "/react-simple-transplate/static/js/main.9904e16b.js",
+    "index.html": "/react-simple-transplate/index.html",
+    "main.63679c87.css.map": "/react-simple-transplate/static/css/main.63679c87.css.map",
+    "main.9904e16b.js.map": "/react-simple-transplate/static/js/main.9904e16b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63679c87.css",
+    "static/js/main.9904e16b.js"
+  ]
+}
